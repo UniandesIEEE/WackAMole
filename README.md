@@ -1,2 +1,3 @@
-Proyecto Wack-A-Mole
-Author: Juan Manuel A. Lovera
+#Proyecto Wack-A-Mole
+
+##Author: Juan Manuel A. Lovera
